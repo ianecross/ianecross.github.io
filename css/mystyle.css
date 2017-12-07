@@ -317,35 +317,35 @@ list-style: none;
     background-size: cover;
 }
 #projects ul li.img-css3 {
-  background-image:url(http://iancross.net/images/css3.svg);
+  background-image:url(/images/css3.svg);
 }
 #projects ul li.img-html5 {
-  background-image:url(http://iancross.net/images/html5.svg);
+  background-image:url(/images/html5.svg);
 }
 #projects ul li.img-jquery {
-  background-image:url(http://iancross.net/images/jquery.svg);
+  background-image:url(/images/jquery.svg);
 }
 #projects ul li.img-responsive {
-  background-image:url(http://iancross.net/images/responsive.svg);
+  background-image:url(/images/responsive.svg);
 }
 #projects ul li.img-sass {
-  background-image:url(http://iancross.net/images/sass.svg);
+  background-image:url(/images/sass.svg);
 }
 #projects ul li.img-wp {
-  background-image:url(http://iancross.net/images/wp.svg);
+  background-image:url(/images/wp.svg);
 }
 
 #scrossphoto {
-      background-image:url(http://iancross.net/images/scrossphoto-ss.png) !important;
+      background-image:url(/images/scrossphoto-ss.png) !important;
 }
 #dorsetdecorators {
-        background-image:url(http://iancross.net/images/dorsetdecorators-screen-shot.png) !important;
+        background-image:url(/images/dorsetdecorators-screen-shot.png) !important;
 }
 #detailbeauty {
-        background-image:url(http://iancross.net/images/detailedbeauty-screen-shot.png) !important;
+        background-image:url(/images/detailedbeauty-screen-shot.png) !important;
 }
 #spinoutuk {
-        background-image:url(http://iancross.net/images/spinoutuk-screen-shot.png) !important;
+        background-image:url(/images/spinoutuk-screen-shot.png) !important;
 }
 
 /**
