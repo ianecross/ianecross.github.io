@@ -335,6 +335,12 @@ list-style: none;
   background-image:url(/images/wp.svg);
 }
 
+#weather {
+      background-image:url(https://ianecross.github.io/weather/img/screenshot.png) !important;
+}
+#rqm {
+      background-image:url(https://ianecross.github.io/random-quote-machine/img/screenshot.png) !important;
+}
 #scrossphoto {
       background-image:url(/images/scrossphoto-ss.png) !important;
 }
