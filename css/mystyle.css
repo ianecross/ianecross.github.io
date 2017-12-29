@@ -340,6 +340,9 @@ list-style: none;
 #projects ul li.img-bootstrap {
   background-image:url(/images/bootstrap.png);
 }
+#projects ul li.img-googleMaps {
+  background-image:url(/images/googleMaps.svg);
+}
 
 #weather {
       background-image:url(https://ianecross.github.io/local-weather-app/img/screenshot.png) !important;
