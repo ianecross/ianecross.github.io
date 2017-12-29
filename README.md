@@ -4,4 +4,4 @@ A website showcasing my Free Code Camp assignments and freelance projects on Git
 
 https://ianecross.github.io/
 
-<img src="/images/screenshot.png />
+<img src="https://ianecross.github.io/images/screenshot.png">
