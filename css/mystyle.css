@@ -334,6 +334,9 @@ list-style: none;
 #projects ul li.img-wp {
   background-image:url(/images/wp.svg);
 }
+#projects ul li.img-d3 {
+  background-image:url(/images/d3.svg);
+}
 
 #weather {
       background-image:url(https://ianecross.github.io/local-weather-app/img/screenshot.png) !important;
