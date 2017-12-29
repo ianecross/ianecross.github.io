@@ -337,6 +337,9 @@ list-style: none;
 #projects ul li.img-d3 {
   background-image:url(/images/d3.svg);
 }
+#projects ul li.img-bootstrap {
+  background-image:url(/images/bootstrap.png);
+}
 
 #weather {
       background-image:url(https://ianecross.github.io/local-weather-app/img/screenshot.png) !important;
